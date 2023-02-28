@@ -28,12 +28,12 @@ button {
 
   display: inline-flex;
   flex-direction: column;
-  gap: 5px;
+  gap: 20px;
   text-align: center;
 }
 
 .list-image__task3 {
   display: inline-block;
-  border-radius: 15px;
-  width: 35%;
+  border-radius: 5px;
+  width: 50%;
 }
